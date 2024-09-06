@@ -360,12 +360,6 @@
     "version": "3.2.0.0"
   },
   {
-    "author": "Edern and Sir Van",
-    "name": "Combat Psycasts",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "kathanon",
     "name": "Float Sub-Menus",
     "steamId": null,
@@ -460,18 +454,6 @@
     "name": "Insectoids 2 - Isopoda geneline",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Myf",
-    "name": "Lost Psycasts - LightSeeker",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Myf",
-    "name": "Lost Psycasts - Skyrunner",
-    "steamId": "3174817532",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kpeti",
@@ -660,16 +642,16 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "Captolamia",
-    "name": "Toolkit - Channel Points (ressurected) 1.5",
-    "steamId": "3240408211",
-    "version": "1.5.1"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+  },
+  {
+    "author": "Captolamia",
+    "name": "Toolkit - Channel Points (ressurected) 1.5",
+    "steamId": "3240408211",
+    "version": "1.5.1"
   },
   {
     "author": "Captolamia",
@@ -978,6 +960,12 @@
     "version": null
   },
   {
+    "author": "Clown Cat",
+    "name": "Vanilla Outposts Expanded Expanded: Ranch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MrHydralisk",
     "name": "Vanilla Outposts Expanded: Additional Outposts",
     "steamId": null,
@@ -1126,12 +1114,6 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
-  },
-  {
-    "author": "Aranmaho",
-    "name": "Wildheart Psycast",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "RedMattis",
