@@ -2271,7 +2271,7 @@
       },
       "description": "An advanced mechanical entity typically built for servitude in one form or another. While self-aware and of at least human intelligence, their rights around the galaxy are often lacking, leading them to places where laws and rules aren't well established.",
       "defName": "AutomatonRace",
-      "enabled": false,
+      "enabled": true,
       "name": "AI Persona",
       "price": 5833
     },
@@ -2304,7 +2304,7 @@
       },
       "description": "An advanced mechanical entity built by and for AI personae who seek adventure. While self-aware and of at least human intelligence, their rights around the galaxy are often lacking, leading them to places where laws and rules aren't well established.",
       "defName": "AIPersonaRace",
-      "enabled": false,
+      "enabled": true,
       "name": "AI Persona",
       "price": 5833
     }
