@@ -54,6 +54,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Cherry Picker",
     "steamId": "3230046902",
@@ -132,6 +138,30 @@
     "version": "3.9.5.0"
   },
   {
+    "author": "Teok25",
+    "name": "Archotech Expanded Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NightKosh",
+    "name": "Advanced Archotech Arm",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nepenthe",
     "name": "Aligned Turbines",
     "steamId": null,
@@ -204,6 +234,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti, Magenta_Ivy and Victor",
+    "name": "Anima Bionics - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Udon",
     "name": "Animal Simple Command",
     "steamId": "2581711499",
@@ -240,13 +282,13 @@
     "version": "1.5.5"
   },
   {
-    "author": "Yanzihko",
+    "author": "Teok25",
     "name": "Archotech Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Teok25",
+    "author": "Yanzihko",
     "name": "Archotech Expanded",
     "steamId": null,
     "version": null
@@ -318,12 +360,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Steve",
     "name": "Better Quest Rewards",
     "steamId": null,
@@ -338,6 +374,18 @@
   {
     "author": "Josh Mate",
     "name": "Better Traders",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Vanilla Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
     "steamId": null,
     "version": null
   },
@@ -420,6 +468,12 @@
     "version": null
   },
   {
+    "author": "Primarch XVI",
+    "name": "Few More Bionics",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dyrewulfe",
     "name": "Food Poisoning Stack Fix (Continued)",
     "steamId": null,
@@ -432,10 +486,40 @@
     "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
   },
   {
+    "author": "Rabo9D",
+    "name": "God Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Telefonmast",
     "name": "Graphics Settings+",
     "steamId": "1678847247",
     "version": "1.0.0"
+  },
+  {
+    "author": "Feaurie",
+    "name": "Greyscythe Cybergenetics",
+    "steamId": "3250708754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Feaurie",
+    "name": "Greyscythe Bionics Catalogue",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "ANNOProfi",
+    "name": "Hell Bionics",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vambypants",
@@ -498,6 +582,12 @@
     "version": "3.3.0.0"
   },
   {
+    "author": "LegendaryMinuteman",
+    "name": "More Archotech Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Unon",
     "name": "No Burn Metal",
     "steamId": null,
@@ -534,6 +624,18 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
+    "author": "cedaro",
+    "name": "Psychic ♛ Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RebelRabbit, Taranchuk and ilyvion",
+    "name": "Quality Bionics (Continued)",
+    "steamId": "3236892428",
+    "version": "0.2.1"
+  },
+  {
     "author": "Temmie3754",
     "name": "ReTend",
     "steamId": "2996971119",
@@ -558,8 +660,20 @@
     "version": "1.15.3.0"
   },
   {
+    "author": "Sovereign and DetVisor",
+    "name": "Royalty eye bionic",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo and Updated by Ogliss",
     "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ELF SLAYER",
+    "name": "Sandevistan Implant 3",
     "steamId": null,
     "version": null
   },
@@ -568,6 +682,18 @@
     "name": "Self Dyeing",
     "steamId": "2562859859",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "ISOREX, Turnovus and community contributors.",
+    "name": "Community Framework",
+    "steamId": "2585162118",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Simply More Implants (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Despenso",
@@ -620,6 +746,18 @@
   {
     "author": "Elshender",
     "name": "Stackable Chunks [1.5]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Akarthus",
+    "name": "The Cosmic Odyssey - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Akarthus",
+    "name": "The Cosmic Odyssey - Bionic Enhancement",
     "steamId": null,
     "version": null
   },
@@ -1140,6 +1278,12 @@
     "version": null
   },
   {
+    "author": "Winter",
+    "name": "Winter's Utility Bionics",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RedMattis",
     "name": "Wololoo - Better Conversion and Recruitment",
     "steamId": "3108763487",
@@ -1150,6 +1294,12 @@
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
