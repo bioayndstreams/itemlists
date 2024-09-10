@@ -36,6 +36,12 @@
     "version": "11.0.4"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
+  },
+  {
     "author": "Hahkethomemah",
     "name": "1-2-3 Personalities M1",
     "steamId": "2527258500",
@@ -231,7 +237,7 @@
     "author": "pelador",
     "name": "Aquarium (Continued)",
     "steamId": "2194463553",
-    "version": "1.5.2"
+    "version": "1.5.5"
   },
   {
     "author": "Yanzihko",
@@ -290,24 +296,6 @@
   {
     "author": "Ben",
     "name": "Automatic Nudist Outfit",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Automatons (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": "2186560858",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Automatons II: Robotic Boogaloo (Continued)",
     "steamId": null,
     "version": null
   },
@@ -420,6 +408,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Leoltron",
+    "name": "Explicit Timings",
+    "steamId": "3205587823",
+    "version": "1.0.0+da0637054a0ee7b79b432d791f3d3906f140e722"
+  },
+  {
     "author": "GodlyAnnihilator",
     "name": "Fast regen medical beds 1.5",
     "steamId": null,
@@ -499,7 +493,7 @@
   },
   {
     "author": "cabmoomoo",
-    "name": "Misc. Robots++",
+    "name": "Misc. Robots++ Continued",
     "steamId": "3253308913",
     "version": "3.3.0.0"
   },
@@ -690,6 +684,12 @@
     "version": null
   },
   {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Trunken and Sarg",
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
@@ -844,6 +844,12 @@
     "name": "VGP Vegetable Garden",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson, Chowder and Trahspanda",

@@ -36,6 +36,12 @@
     "version": "11.0.4"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
+  },
+  {
     "author": "Hahkethomemah",
     "name": "1-2-3 Personalities M1",
     "steamId": "2527258500",
@@ -231,7 +237,7 @@
     "author": "pelador",
     "name": "Aquarium (Continued)",
     "steamId": "2194463553",
-    "version": "1.5.2"
+    "version": "1.5.5"
   },
   {
     "author": "Yanzihko",
@@ -294,24 +300,6 @@
     "version": null
   },
   {
-    "author": "Zaljerem",
-    "name": "Automatons (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": "2186560858",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Automatons II: Robotic Boogaloo (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Meltup",
     "name": "Beautiful Outdoors",
     "steamId": null,
@@ -358,6 +346,12 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "3.2.0.0"
+  },
+  {
+    "author": "Edern and Sir Van",
+    "name": "Combat Psycasts",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "kathanon",
@@ -414,6 +408,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Leoltron",
+    "name": "Explicit Timings",
+    "steamId": "3205587823",
+    "version": "1.0.0+da0637054a0ee7b79b432d791f3d3906f140e722"
+  },
+  {
     "author": "GodlyAnnihilator",
     "name": "Fast regen medical beds 1.5",
     "steamId": null,
@@ -456,6 +456,18 @@
     "version": null
   },
   {
+    "author": "Myf",
+    "name": "Lost Psycasts - LightSeeker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Myf",
+    "name": "Lost Psycasts - Skyrunner",
+    "steamId": "3174817532",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Kpeti",
     "name": "Luciferium+",
     "steamId": null,
@@ -481,7 +493,7 @@
   },
   {
     "author": "cabmoomoo",
-    "name": "Misc. Robots++",
+    "name": "Misc. Robots++ Continued",
     "steamId": "3253308913",
     "version": "3.3.0.0"
   },
@@ -642,16 +654,16 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
-  },
-  {
     "author": "Captolamia",
     "name": "Toolkit - Channel Points (ressurected) 1.5",
     "steamId": "3240408211",
     "version": "1.5.1"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
   },
   {
     "author": "Captolamia",
@@ -670,6 +682,12 @@
     "name": "Uniform Growing Zone Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -828,6 +846,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
     "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
@@ -956,12 +980,6 @@
   {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Clown Cat",
-    "name": "Vanilla Outposts Expanded Expanded: Ranch (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1114,6 +1132,12 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
+  },
+  {
+    "author": "Aranmaho",
+    "name": "Wildheart Psycast",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RedMattis",
